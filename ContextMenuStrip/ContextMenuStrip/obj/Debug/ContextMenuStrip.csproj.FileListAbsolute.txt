@@ -1,0 +1,10 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project22\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb
